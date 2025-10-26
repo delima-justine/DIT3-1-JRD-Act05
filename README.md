@@ -7,6 +7,7 @@
    - One of the main challenges I faced in maintaining data persistence is logging to logcat terminal to verify if I successfully fetched or inserted the data to/from the database. 
    - Logging become one of the challenges I faced because there is too much logs in the log cat and I can't find my verifier log.
    - After all, I successfully implemented CRUD.
+   - I also felt so unfamillarity with the structure of querying of data in Kotlin since I have been used in querying in our Web Development. 
 
 3. How could you improve performance or UI Design in future versions?
     - I plan to make the UI Design with similar functionality with Google Keep Notes. Their feature in saving notes after edited is it don't need a save button to save the updated note.
